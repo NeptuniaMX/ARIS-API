@@ -20,10 +20,13 @@
                             <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Buat Group Baru</div>
                             <hr>
                             <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Nama Database</div>
-                            <input id="database_name"></input>
+                            <!-- <input id="database_name"></input> -->
                             &nbsp;
-                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Parent Group</div>
+                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Parent Group GUID</div>
                             <input id="parent_group"></input>
+                            &nbsp;
+                            <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Input Group</div>
+                            <input id="input_group"></input>
                             &nbsp;
                             <hr>
                             <button class="btn btn-sm btn-primary shadow-sm" id="input_data_group"><a>Input Data</a></button>
